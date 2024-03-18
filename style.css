@@ -1,0 +1,69 @@
+/* Réinitialisation des styles de base */
+body {
+    font-family: sans-serif;
+}
+
+/* Styles spécifiques pour le conteneur principal */
+.container {
+    background-color: #fff3db;
+    width: 530px;
+    margin: auto;
+    padding: 10px;
+}
+
+/* Styles pour les titres de niveau 1 */
+h1 {
+    background-color: #f02425;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 1000;
+    font-size: 40px;
+}
+
+/* Styles pour les titres de niveau 2 */
+h2 {
+    color: #f02425;
+    font-weight: 1000;
+    letter-spacing: 2px;
+    font-size: 30px;
+}
+
+/* Styles pour les titres de niveau 3 */
+h3 {
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: normal;
+    text-decoration-skip-ink: none;
+}
+
+/* Alignement centré pour tous les titres */
+h1, h2, h3 {
+    text-align: center;
+}
+
+/* Styles pour les éléments en gras et en italique */
+strong, em {
+    color: #f02425;
+    font-style: normal;
+}
+
+img {
+    width: 100%;
+}
+
+
+/* Styles pour les liens */
+a {
+    color: #248dd9;
+    font-weight: bold;
+}
+
+/* Styles pour les astuces */
+.astuce {
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #fed48a;
+    color: #666;
+    text-align: center;
+    font-style: italic;
+}
